@@ -1,6 +1,6 @@
 # Perjanjian Lisensi Pengguna Akhir (EULA) — Motion Reborn
 
-Versi 1 · Berlaku sejak November 2026
+Versi 2 · Berlaku sejak 12 November 2026
 Hak Cipta © 2026 Eriarmedia. Seluruh hak dilindungi.
 
 Motion Reborn ("Perangkat Lunak") adalah milik Eriarmedia ("Kami"). Dengan memasang atau memakai Perangkat Lunak,
@@ -29,6 +29,14 @@ Perangkat Lunak dapat terhubung ke layanan pihak ketiga (misalnya penyedia AI da
 tersebut tunduk pada ketentuan masing-masing penyedia. API key, akun, kuota, dan biaya layanan pihak ketiga menjadi
 tanggung jawab Pengguna. Kami tidak menyimpan password akun Pengguna.
 
+
+## 4a. Komponen pihak ketiga (sumber terbuka)
+Perangkat Lunak menyertakan komponen pihak ketiga, antara lain FFmpeg dan espeak-ng (GNU GPL v3), Piper dan ONNX Runtime
+(MIT), Electron dan React (MIT), Remotion (Remotion License), serta font berlisensi SIL Open Font License / Apache 2.0.
+Daftar lengkap, hak cipta, teks lisensi, dan cara memperoleh kode sumbernya ada di berkas **THIRD-PARTY-NOTICES.md**
+(folder instalasi) dan di menu **Pengaturan → Tentang → Lisensi pihak ketiga**. Komponen tersebut tunduk pada
+lisensinya masing-masing; larangan di Pasal 2 **tidak membatasi** hak Pengguna atas komponen itu sejauh lisensinya
+memberikan hak tersebut. Perjanjian ini hanya berlaku untuk bagian Perangkat Lunak milik Kami.
 ## 5. Pembaruan & pengakhiran
 Kami dapat memperbarui, mengubah, atau menghentikan fitur. Lisensi berakhir otomatis jika Pengguna melanggar perjanjian
 ini; setelah itu Pengguna wajib berhenti memakai dan menghapus Perangkat Lunak.
